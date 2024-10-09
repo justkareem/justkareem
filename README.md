@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Elelu Abdulkareem Ayomikun  
+# 👋 Hi, I’m Elelu Abdulkareem  
 🚀 **Software Engineer | Full Stack Developer**
 
 I’m passionate about building impactful and scalable software solutions. With hands-on experience in backend development using **Django** and mobile app development with **Flutter**, I enjoy creating systems that enhance user experiences and streamline processes.
