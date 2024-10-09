@@ -16,7 +16,10 @@ I’m passionate about building impactful and scalable software solutions. With 
 - Creating automation scripts for social media and trading
 
 ## 🎓 Education:  
-BSc in Software Engineering (2024) from Thomas Adewumi University, Nigeria
+BSc in Software Engineering from Thomas Adewumi University, Nigeria
+
+## ⚡ Fun fact:
+I'm an Arsenal fan and we're winning EPL or UCL this season. COYG!🔴⚪
 
 ## 📫 Let’s connect:  
 [LinkedIn](https://www.linkedin.com/in/abdulkareem-elelu-8174b1237/) | [Email me](mailto:eleluabdulkareem@gmail.com)
